@@ -1,4 +1,4 @@
-package BFS_Practice;
+package Algorithm;
 
 public class BFS_Example {
 	public static void main(String[] args) {
