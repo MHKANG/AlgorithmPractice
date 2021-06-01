@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson2;
 
 import java.util.Arrays;
 //Correctness : 100% , Task Score = 100% Performance : 100% 

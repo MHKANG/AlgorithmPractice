@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson3;
 
 public class Cod_TapeEquilibriumElem_other1 {
 	// Time Complexity : O(N)

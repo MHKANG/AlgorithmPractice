@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson3;
 
 public class Cod_PermMissingElem {
 	public static void main(String[] args) {

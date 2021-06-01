@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson1;
 
 public class Cod_Binarygap_mine {
 	// Correctness : 80%

@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson3;
 
 public class Cod_FrogJmp {
 	// Correctness : 100% , Task Score = 100% Performance : 100% 

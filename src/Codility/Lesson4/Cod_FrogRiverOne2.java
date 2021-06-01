@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson4;
 
 public class Cod_FrogRiverOne2 {
 	// Correctness : 100% , Task Score = 100% Performance : 100% 

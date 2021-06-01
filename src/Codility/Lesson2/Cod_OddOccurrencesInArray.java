@@ -1,4 +1,4 @@
-package Codility;
+package Codility.Lesson2;
 
 import java.util.HashMap;
 import java.util.Iterator;
